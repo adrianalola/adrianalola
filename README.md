@@ -12,7 +12,7 @@
 ---
 
 ### ✨ About me
-Cloud DevOps (AWS, Terraform, Docker, Cloud Security) · Molecular Engineer · Quantum Computing · Software Engineer
+· Software Engineer · Quantum Computing · Cloud DevOps (AWS, Terraform, Docker, Cloud Security) · Molecular Engineer 
 
 ---
 
