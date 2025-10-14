@@ -12,7 +12,7 @@
 ---
 
 ### ✨ About me
-· Software Engineer · Quantum Computing · Molecular Engineer · Cloud DevOps (AWS, Terraform, Docker, Cloud Security) 
+Cloud DevOps (AWS, Terraform, Docker, Cloud Security) · Molecular Engineer · Quantum Computing · Software Engineer
 
 ---
 
@@ -47,11 +47,13 @@
   <img src="https://img.shields.io/badge/Q%23-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/IBM%20Quantum-052FAD?logo=ibm&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
-  <!-- Cirq no tiene logo en SimpleIcons en algunos temas; queda como texto -->
-  <img src="https://img.shields.io/badge/Cirq-4285F4?logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/PennyLane-FF006E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Quantum-114582?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Codespaces-24292F?logo=github&logoColor=white&style=for-the-badge" />
 </p>
-
-
 
 ---
 
@@ -98,3 +100,4 @@
     <img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge">
   </a>
 </p>
+
