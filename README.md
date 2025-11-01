@@ -1,5 +1,8 @@
 <!-- Profile README for adrianalola -->
 
+
+<img src="https://avatars.githubusercontent.com/u/9919" width="80" alt="GitHub Logo">
+
 <p align="center">
   <a href="https://github.com/adrianalola">
     <img
@@ -55,18 +58,9 @@
   <img src="https://img.shields.io/badge/GitHub%20Codespaces-24292F?logo=github&logoColor=white&style=for-the-badge" />
 </p>
 
----
-## 🏅 Certifications
-
-[![Google Cybersecurity Professional Certificate V2](assets/certifications/google-cybersecurity-professional-certificate-v2.png)](https://www.credly.com/badges/9797deed-07ea-4536-a187-4f688d72af7e)
-[![AWS Cloud Quest: Generative AI Practitioner](assets/certifications/aws-cloud-quest-generative-ai-practitioner-training.png)](https://www.credly.com/badges/f80d889a-bf12-4b4a-92a1-aca2adfd43d4)
-[![AWS Cloud Quest: Cloud Practitioner](assets/certifications/aws-cloud-quest-cloud-practitioner-training-badge.png)](https://www.credly.com/badges/eff36510-6b9d-4eef-9ae0-7c3489a1d47a)
-
-*✨ Click en cada badge para ver la verificación en Credly.*
 
 
 
----
 ### 📈 GitHub Overview
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrianalola&show_icons=true&theme=radical" />
