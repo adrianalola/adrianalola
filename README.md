@@ -15,7 +15,11 @@
 ---
 
 ### ✨ About me
-· Software Engineer · Quantum Computing · Cloud DevOps (AWS, Terraform, Docker, Cloud Security) · Molecular Engineer 
+· Cloud & DevOps Engineer with hands-on experience in building and deploying cloud-native applications using AWS and Azure. Skilled in Terraform, Docker, CI/CD, and observability (Prometheus, Grafana, OpenTelemetry).
+
+Focused on scalable, secure, and cost-efficient cloud solutions, with growing expertise in cloud security AZ-500, data platforms, and AI-driven architectures.
+
+Background in Molecular Engineering with experience in Quantum Computing (Qiskit, Azure Quantum), bringing strong analytical and problem-solving skills.
 
 ---
 
