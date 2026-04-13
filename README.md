@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/adrianalola">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=7CFC00&center=true&vCenter=true&width=900&lines=$+Hi%2C+I'm+Adriana+%3A);Cloud+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Cloud+Security;Molecular+Engineer+%7C+Quantum+Computing;Software+Engineer+%7C+Pythonista"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=7CFC00&center=true&vCenter=true&width=900&lines=$+Hi%2C+I'm+Adriana+%3A);Cloud+DevOps+Engineer;AWS&Azure+%7C+Terraform+%7C+Docker+%7C+Cloud+Security;Molecular+Engineer+%7C+Quantum+Computing;Software+Engineer+%7C+Pythonista"
       alt="Typing SVG"
     />
   </a>
